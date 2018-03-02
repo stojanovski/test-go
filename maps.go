@@ -31,5 +31,7 @@ func main() {
     }
     fmt.Println(o[0], "AA")
     fmt.Println(m["fifty"])
+
+    fmt.Println("Adding a line")
 }
 
